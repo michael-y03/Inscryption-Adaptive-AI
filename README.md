@@ -2,7 +2,7 @@
 
 *A Python / PyGame strategy game with an adaptive Monte Carlo Tree Search (MCTS) opponent.*
 
-![Gameplay GIF](screenshots/image.png)
+![Gameplay GIF](screenshots/image2.png)
 
 ---
 
