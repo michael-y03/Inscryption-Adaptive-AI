@@ -19,7 +19,7 @@
 
 ```bash
 git clone https://github.com/michael-y03/Inscryption-Adaptive-AI.git
-cd adaptive-ai-game
+cd Inscryption-Adaptive-AI
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 python -m src.main
